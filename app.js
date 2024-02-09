@@ -6,7 +6,7 @@ const port = 8080;
 const watsonAssistantScript = `
   <script>
     window.watsonAssistantChatOptions = {
-      integrationID: "5b5cbd62-badc-4082-b10a-136ddfc5efac",
+      integrationID: "c45f9f68-3863-48fd-99a4-c6e3a588bf70",
       region: "us-south",
       serviceInstanceID: "8877b1e8-7971-4ca2-9ae2-ba092a5d9bfb",
       onLoad: async (instance) => { await instance.render(); }
