@@ -8,7 +8,7 @@ const watsonAssistantScript = `
     window.watsonAssistantChatOptions = {
       integrationID: "5b5cbd62-badc-4082-b10a-136ddfc5efac",
       region: "us-south",
-      serviceInstanceID: "38b61b33-64db-4bb2-8f74-87cc16145ee6",
+      serviceInstanceID: "8877b1e8-7971-4ca2-9ae2-ba092a5d9bfb",
       onLoad: async (instance) => { await instance.render(); }
     };
     setTimeout(function(){
